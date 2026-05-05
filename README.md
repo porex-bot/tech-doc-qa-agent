@@ -1,5 +1,5 @@
 
-# Tech-Doc-QA-Agent (MVP)
+# Tech-Doc-QA-Agent
 
 智能技术文档问答 Agent (最小可行产品)。基于 FastAPI, LangChain, 向量数据库模拟构建。
 
