@@ -19,8 +19,6 @@
    ```
    uvicorn main:app --reload
    ```
-3. 访问 API 文档:
-   http://localhost:8000/docs
 
 ## 项目结构
 - `api/`: 路由接口定义
